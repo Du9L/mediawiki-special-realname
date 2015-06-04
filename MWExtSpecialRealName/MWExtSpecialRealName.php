@@ -19,5 +19,5 @@ $wgExtensionCredits['specialpage'][] = array(
 $wgAutoloadClasses['SpecialRealName'] = __DIR__ . '/SpecialRealName.php';
 $wgMessagesDirs['MWExtSpecialRealName'] = __DIR__ . "/i18n";
 $wgExtensionMessagesFiles['MWExtSpecialRealNameAlias'] = __DIR__ . '/MWExtSpecialRealName.alias.php';
-$wgSpecialPages['MWExtSpecialRealName'] = 'SpecialRealName';
+$wgSpecialPages['RealName'] = 'SpecialRealName';
 
