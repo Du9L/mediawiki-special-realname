@@ -1,0 +1,2 @@
+[[File:User.png|14px|frameless|link=Special:RealName/{{{1}}}]][[Special:RealName/{{{1}}}|{{{1}}}]]
+
