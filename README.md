@@ -2,7 +2,9 @@
 
 This is a [MediaWiki](https://www.mediawiki.org/) extension that provides a special page. The page will redirect to a user's page, given the user's real name.
 
-This extension has been tested on MediaWiki 1.23.9. It should support any higher version. (Old versions have been EOL-ed.)
+It is very useful for group or corporate Wikis, where users call each other by their real names and fills the "Real name" field in their profiles.
+
+This extension has been tested on MediaWiki 1.23.9. It should support any newer versions. (Older versions have been EOL-ed.)
 
 ## Features
 
