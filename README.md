@@ -15,7 +15,7 @@ This extension has been tested on MediaWiki 1.23.9. It should support any higher
 
 Copy `MWExtSpecialRealName` folder to `MediaWiki-Root/extensions/`. Then add the following line to the bottom of `LocalSettings.php`:
 ```php
-require_once( "\$IP/extensions/MWExtSpecialRealName/MWExtSpecialRealName.php" );
+require_once( "$IP/extensions/MWExtSpecialRealName/MWExtSpecialRealName.php" );
 ```
 
 You can then create links to `[[Special:RN/USER-REAL-NAME]]`.
